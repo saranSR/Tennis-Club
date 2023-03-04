@@ -1,0 +1,7 @@
+C:\Users\Lap.lk\Desktop\enrolment\Tennis\obj\Debug\net6.0-windows\Tennis.csproj.AssemblyReference.cache
+C:\Users\Lap.lk\Desktop\enrolment\Tennis\obj\Debug\net6.0-windows\Tennis.Form1.resources
+C:\Users\Lap.lk\Desktop\enrolment\Tennis\obj\Debug\net6.0-windows\Tennis.csproj.GenerateResource.cache
+C:\Users\Lap.lk\Desktop\enrolment\Tennis\obj\Debug\net6.0-windows\Tennis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lap.lk\Desktop\enrolment\Tennis\obj\Debug\net6.0-windows\Tennis.AssemblyInfoInputs.cache
+C:\Users\Lap.lk\Desktop\enrolment\Tennis\obj\Debug\net6.0-windows\Tennis.AssemblyInfo.cs
+C:\Users\Lap.lk\Desktop\enrolment\Tennis\obj\Debug\net6.0-windows\Tennis.csproj.CoreCompileInputs.cache
